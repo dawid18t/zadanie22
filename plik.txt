@@ -1,4 +1,4 @@
 main	09:29 19.01.2024	DF: Pierwsza linia 'kodu'.
 main	09:35 19.01.2024	KS: Druga linia 'kodu'.
 feature 09:36 19.01.2024	KS: Trzecia linia 'kodu'.
-feature 09:41 19.01.2024	KS: Piata linia 'kodu'.
+feature 09:41 19.01.2024	KS: Czwarta linia 'kodu'.
